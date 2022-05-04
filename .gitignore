@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+
+lib
+dataset/
+lib/
+log/
+*.npz
