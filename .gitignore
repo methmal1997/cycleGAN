@@ -5,3 +5,5 @@ dataset/
 lib/
 log/
 *.npz
+*.h5
+*.png
